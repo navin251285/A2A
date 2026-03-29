@@ -1,0 +1,30 @@
+# Environment and secrets
+.env
+.env.*
+*.env
+
+# Python cache/build
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Virtual envs
+venv/
+.venv/
+env/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs/temp
+*.log
+*.tmp
+*.swp
